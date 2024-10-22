@@ -426,7 +426,9 @@ header .btn:hover {
         height: auto;
     }
     .left-pgm .btn {
-        text-align: center;
+        /* text-align: center; */
+        
+
     }
 }
 
