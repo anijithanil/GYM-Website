@@ -398,6 +398,7 @@ header .btn:hover {
         display: flex;
         flex-direction: column;
         margin-bottom: 400px;
+        text-align: center;
     }
     .left-pgm{
         width: 100%;
@@ -427,7 +428,7 @@ header .btn:hover {
     }
     .left-pgm .btn {
         /* text-align: center; */
-        
+
 
     }
 }
