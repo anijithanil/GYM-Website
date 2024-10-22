@@ -423,6 +423,7 @@ header .btn:hover {
         width: 100%;
         text-align: center;
         margin-top: 18px;
+        height: auto;
     }
     .left-pgm .btn {
         text-align: center;
