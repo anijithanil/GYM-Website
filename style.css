@@ -6,6 +6,8 @@
 }
 html {
     overflow-x: hidden;
+
+    scroll-behavior: smooth;
 }
 body {
     overflow-x: hidden;
@@ -14,7 +16,7 @@ body {
 .hero-section {
     width: 100vw;
     height: 100vh;
-    background-image: url('./images/hero-img.jpg');
+    background-image: url('./images/hero-img\ \(1\).jpg');
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -539,6 +541,9 @@ header .btn:hover {
         margin-top: 19%;
         margin-right: 50%;
         text-align: center;
+    }
+    .text-sec p{
+        margin-top: 53%px;
     }
 }
 
