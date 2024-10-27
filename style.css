@@ -434,7 +434,7 @@ header .btn:hover {
         height: auto;
     }
     .left-pgm .btn {
-        /* text-align: center; */
+        text-align: center;
 
 
     }
@@ -543,7 +543,7 @@ header .btn:hover {
         text-align: center;
     }
     .text-sec p{
-        margin-top: 53%px;
+        margin-top: 53%;
     }
 }
 
